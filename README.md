@@ -4,7 +4,7 @@ A continuación explico lo que es cada archivo y su función:
 #######   cgi.cfg   #######
 ##############################
 
-Es el archvivo donde defines accesos a la interfaz web tales cómo:
+Es el archivo donde defines accesos a la interfaz web tales cómo:
 Autenticación y permisos (use_authentication, authorized_for_*): Controla qué usuarios pueden acceder a la interfaz y qué acciones pueden realizar.
 Este archivo no lo he modicado para mi proyecto pero lo considero importante para comprender bien el potencial de la herramienta.
 
